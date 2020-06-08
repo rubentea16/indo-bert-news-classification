@@ -16,4 +16,5 @@ train label distribution | test label distribution
 
 You can check my ```presentation.pdf``` for the detail and code in ```notebook``` folder
 
-
+# Transformer Architecture
+![transformer](transformer.png)
